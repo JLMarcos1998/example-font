@@ -2,7 +2,7 @@
 font-family: 'Caros Soft Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Caros Soft Regular'), url('CarosSoft.woff') format('woff');
+src: local('Caros Soft Regular'), url('https://storage.cloud.google.com/font-certificados/CarosSoft.woff') format('woff');
 }
 
 
@@ -10,7 +10,7 @@ src: local('Caros Soft Regular'), url('CarosSoft.woff') format('woff');
 font-family: 'Caros Soft Light';
 font-style: normal;
 font-weight: normal;
-src: local('Caros Soft Light'), url('CarosSoftLight.woff') format('woff');
+src: local('Caros Soft Light'), url('https://storage.cloud.google.com/font-certificados/CarosSoftLight.woff') format('woff');
 }
 
 
@@ -19,5 +19,5 @@ src: local('Caros Soft Light'), url('CarosSoftLight.woff') format('woff');
 font-family: 'Caros Soft Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Caros Soft Bold'), url('CarosSoftBold.woff') format('woff');
+src: local('Caros Soft Bold'), url('https://storage.cloud.google.com/font-certificados/CarosSoftBold.woff') format('woff');
 }
